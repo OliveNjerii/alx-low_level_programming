@@ -4,4 +4,7 @@
 - assign a random number to the variable n each time it is executed
 
 ## Script 1
-- print the last digit of the number stored in the variable 
+- print the last digit of the number stored in the variable
+
+## Script 2
+- prints the alphabet in lowercase, followed by a new line. 

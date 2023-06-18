@@ -19,4 +19,7 @@
 -  prints all single digit numbers of base 10 starting from 0, followed by a new line.
 
 ## Script 6
-- prints all single digit numbers of base 10 starting from 0 
+- prints all single digit numbers of base 10 starting from 0
+
+## Script 7
+- program that prints the lowercase alphabet in reverse, followed by a new line. 

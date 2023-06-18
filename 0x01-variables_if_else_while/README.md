@@ -31,4 +31,7 @@
 -  program that prints all possible combinations of single-digit numbers.
 
 ## Script 10
-- prints all possible different combinations of two digits 
+- prints all possible different combinations of two digits
+
+## Script 11
+- program that prints all possible different combinations of three digits. 

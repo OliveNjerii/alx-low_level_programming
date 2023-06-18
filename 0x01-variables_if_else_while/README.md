@@ -34,4 +34,7 @@
 - prints all possible different combinations of two digits
 
 ## Script 11
-- program that prints all possible different combinations of three digits. 
+- program that prints all possible different combinations of three digits.
+
+## Script 12
+- prints all possible combinations of two two-digit numbers. 

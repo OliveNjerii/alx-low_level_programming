@@ -10,4 +10,7 @@
 - prints the alphabet in lowercase, followed by a new line.
 
 ## Script 3
-- program that prints the alphabet in lowercase, and then in uppercase, followed by a new line. 
+- program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+
+## Script 4
+- program that prints all alphabet letters except some 

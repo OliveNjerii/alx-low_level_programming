@@ -16,4 +16,7 @@
 - program that prints all alphabet letters except some
 
 ## Script 5
--  prints all single digit numbers of base 10 starting from 0, followed by a new line. 
+-  prints all single digit numbers of base 10 starting from 0, followed by a new line.
+
+## Script 6
+- prints all single digit numbers of base 10 starting from 0 

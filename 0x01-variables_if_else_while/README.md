@@ -25,4 +25,7 @@
 - program that prints the lowercase alphabet in reverse, followed by a new line.
 
 ## Script 8
-- prints all the numbers of base 16 in lowercase 
+- prints all the numbers of base 16 in lowercase
+
+## Script 9
+-  program that prints all possible combinations of single-digit numbers. 

@@ -28,4 +28,7 @@
 - prints all the numbers of base 16 in lowercase
 
 ## Script 9
--  program that prints all possible combinations of single-digit numbers. 
+-  program that prints all possible combinations of single-digit numbers.
+
+## Script 10
+- prints all possible different combinations of two digits 

@@ -5,3 +5,6 @@
 
 ## Script 1
 - function that prints the alphabet, in lowercase, followed by a new line.
+
+## Script 2
+-  prints 10 times the alphabet, in lowercase, followed by a new line.

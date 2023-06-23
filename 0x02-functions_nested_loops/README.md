@@ -14,3 +14,6 @@
 
 ## Script 4
 - checks for alphabetic character.
+
+## Script 5
+- prints the sign of a number.

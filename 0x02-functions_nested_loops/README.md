@@ -17,3 +17,6 @@
 
 ## Script 5
 - prints the sign of a number.
+
+## Script 6
+- computes the absolute value of an integer.

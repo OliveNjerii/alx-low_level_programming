@@ -11,3 +11,6 @@
 
 ## Script 3
 -  checks for lowercase character.
+
+## Script 4
+- checks for alphabetic character.

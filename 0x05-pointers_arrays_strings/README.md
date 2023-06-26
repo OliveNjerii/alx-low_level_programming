@@ -14,3 +14,6 @@
 
 ## Script 4
 - function that prints a string, in reverse
+
+## Script 5
+- function that reverses a string

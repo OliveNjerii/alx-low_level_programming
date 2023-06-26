@@ -8,3 +8,6 @@
 
 ## Script 2
 -  function that returns the length of a string.
+
+## Script 3
+-  prints a string, followed by a new line, to stdout

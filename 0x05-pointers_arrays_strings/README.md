@@ -5,3 +5,6 @@
 
 ## Script 1
 - function that swaps the values of two integers
+
+## Script 2
+-  function that returns the length of a string.

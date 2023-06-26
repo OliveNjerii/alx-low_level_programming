@@ -11,3 +11,6 @@
 
 ## Script 3
 -  prints a string, followed by a new line, to stdout
+
+## Script 4
+- function that prints a string, in reverse

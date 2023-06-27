@@ -23,3 +23,6 @@
 
 ## Script 7
 - prints half of a string, followed by a new line.
+
+## Script 8
+-copies a string to another location

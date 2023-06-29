@@ -11,3 +11,7 @@
 
 ## Script 3
 - compares strings
+
+## Script 4
+- reverses array contents
+

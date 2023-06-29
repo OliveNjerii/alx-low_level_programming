@@ -18,3 +18,6 @@
 ## Script 5
 - changes lower to upper case
 
+## Script 6
+- capitalizes all words of a string.
+

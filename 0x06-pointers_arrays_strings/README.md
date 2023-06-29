@@ -15,3 +15,6 @@
 ## Script 4
 - reverses array contents
 
+## Script 5
+- changes lower to upper case
+

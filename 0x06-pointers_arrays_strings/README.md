@@ -5,3 +5,6 @@
 
 ## Script 1
 - concatenates two strings.
+
+## Script 2
+- copies a string.

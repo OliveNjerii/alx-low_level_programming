@@ -21,3 +21,6 @@
 ## Script 6
 - capitalizes all words of a string.
 
+## Script 7
+- encodes a string into 1337
+

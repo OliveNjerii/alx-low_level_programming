@@ -8,3 +8,6 @@
 
 ## Script 2
 - copies a string.
+
+## Script 3
+- compares strings

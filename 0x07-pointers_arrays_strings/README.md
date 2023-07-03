@@ -11,3 +11,6 @@
 
 ## strspn
 - function that gets the length of a prefix substring.
+
+## strpbk
+- function that searches a string for any of a set of bytes.

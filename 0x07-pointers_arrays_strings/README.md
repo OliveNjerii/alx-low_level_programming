@@ -14,3 +14,6 @@
 
 ## strpbk
 - function that searches a string for any of a set of bytes.
+
+## strstr
+- function that locates a substring.

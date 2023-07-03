@@ -17,3 +17,6 @@
 
 ## strstr
 - function that locates a substring.
+
+## chess
+- function that prints the chessboard.

@@ -8,3 +8,6 @@
 
 ## strchr
 -  function that locates a character in a string.
+
+## strspn
+- function that gets the length of a prefix substring.

@@ -7,8 +7,14 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main(int argc, char * argv[])
-{	(void)argv;
-	printf("%d\n", argc);
+int main(int argc, char *argv[])
+{
+	(void)argv;
+
+	if (argc > 1)
+		printf("%d\n", argc);
+	else
+		printf("0\n");
+
 	return (0);
 }

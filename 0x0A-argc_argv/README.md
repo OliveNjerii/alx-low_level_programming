@@ -2,3 +2,6 @@
 
 ## what's my name
 - program that prints its name, followed by a new line.
+
+## no of arguments
+- prints the number of arguments passed into it.

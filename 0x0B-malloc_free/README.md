@@ -6,3 +6,6 @@
 
 ## copyarray.c
 - copies a string from one mem location to another.
+
+## string concatenation
+- concatenates two strings in different mem locations to one mem location

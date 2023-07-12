@@ -9,3 +9,6 @@
 
 ## string concatenation
 - concatenates two strings in different mem locations to one mem location
+
+## grid
+-  returns a pointer to a 2 dimensional array of integers.

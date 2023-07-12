@@ -5,3 +5,6 @@
 
 ## no of arguments
 - prints the number of arguments passed into it.
+
+## all args
+-  prints all arguments it receives.

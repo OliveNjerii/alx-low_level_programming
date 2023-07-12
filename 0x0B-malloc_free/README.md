@@ -15,3 +15,9 @@
 
 ## free
 -  frees a 2 dimensional grid previously created by your alloc_grid function
+
+## args
+- function that concatenates all the arguments of your program.
+
+## string to words
+- function that splits a string into words

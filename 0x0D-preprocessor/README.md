@@ -11,3 +11,6 @@
 
 ## Function-like macro
 - function-like macro ABS(x) that computes the absolute value of a number x
+
+## Sum
+- function-like macro SUM(x, y) that computes the sum of the numbers x and y

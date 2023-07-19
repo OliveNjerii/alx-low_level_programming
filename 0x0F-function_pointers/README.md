@@ -11,3 +11,6 @@
 
 ## simple ops
 -  program that performs simple operations
+
+## opcode
+- program that prints the opcodes of its own main function

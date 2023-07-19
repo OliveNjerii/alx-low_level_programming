@@ -8,3 +8,6 @@
 
 ## searching for an integer
 - function that searches for an integer.
+
+## simple ops
+-  program that performs simple operations

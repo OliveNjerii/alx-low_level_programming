@@ -8,3 +8,6 @@
 
 ## print_strings
 - function that prints strings, followed by a new line.
+
+## print_all
+- function that prints anything
